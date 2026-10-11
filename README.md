@@ -77,8 +77,7 @@ scoring_marketing/
 ## Reproduire le projet
 
 ```bash
-git clone https://github.com/<ton-pseudo>/scoring-marketing.git
-cd scoring-marketing
+git clone https://github.com/nebielandry99-star/scoring-marketing.git
 pip install -r requirements.txt
 ```
 
